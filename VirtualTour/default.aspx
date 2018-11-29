@@ -8,7 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <h1>Virtual Tours</h1>
+        <h1>Black Cat Antiques</h1>
         <div>
             <iframe width="100%" height="480px" src="https://poly.google.com/view/aDyY1C5rvi9/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
         </div>
