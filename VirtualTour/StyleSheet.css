@@ -25,24 +25,25 @@
     padding:0% 0.1% 0% 0.1%;
 }
 
-/* Styling for Virtual Tour */
-.virtualTour {
-    width: 100%;
-    height: 90%;
+/*Styling for p tags*/
+h2 {
     text-align: center;
 }
 
-/* Styling for Googe Map Embedding*/
-.mapouter {
+
+p {
+    font-size: large;
     text-align: center;
-    height: 60%;
-    width: 60%;
+}
+
+.defaultPage {
+    padding-left: 20%;
+    padding-right: 20%;
+    line-height: 36px;
+}
+
+.buttonAlign {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-.gmap_canvas {
-    overflow: hidden;
-    background: none !important;
 }
