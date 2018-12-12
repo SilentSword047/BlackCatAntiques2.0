@@ -13,5 +13,10 @@ namespace VirtualTour
         {
 
         }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("tel:807-623-5503");
+        }
     }
 }
