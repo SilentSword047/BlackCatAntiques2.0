@@ -8,6 +8,23 @@
     padding-bottom:2%;
 }
 
+.siteMasterLinks {
+    background-color: black;
+    text-decoration: none;
+    padding: 0.2% 0.8% 0.2% 0.8%;
+    color: white;
+}
+
+.siteMasterLinks:hover {
+    color: crimson;
+}
+
+.siteMasterPipes {
+    font-size:1%;
+    margin:0;
+    padding:0% 0.1% 0% 0.1%;
+}
+
 /*Styling for p tags*/
 h2 {
     text-align: center;
@@ -20,6 +37,12 @@ h3 {
 p {
     font-size: large;
     text-align: center;
+}
+
+.defaultPage {
+    padding-left: 20%;
+    padding-right: 20%;
+    line-height: 36px;
 }
 
 .paragraph {
@@ -57,10 +80,3 @@ p {
     overflow: hidden;
     background: none !important;
 }
-
-.virtualTour {
-    width:100%;
-    height:90%;
-    text-align:center;
-}
-
