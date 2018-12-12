@@ -71,7 +71,6 @@
     <Content Include="default.aspx" />
     <Content Include="Directions.aspx" />
     <Content Include="Images\logo.jpg" />
-    <Content Include="Marketplace.aspx" />
     <Content Include="News.aspx" />
     <Content Include="StyleSheet.css" />
     <Content Include="Web.config">
@@ -99,13 +98,6 @@
     </Compile>
     <Compile Include="Directions.aspx.designer.cs">
       <DependentUpon>Directions.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Marketplace.aspx.cs">
-      <DependentUpon>Marketplace.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Marketplace.aspx.designer.cs">
-      <DependentUpon>Marketplace.aspx</DependentUpon>
     </Compile>
     <Compile Include="News.aspx.cs">
       <DependentUpon>News.aspx</DependentUpon>

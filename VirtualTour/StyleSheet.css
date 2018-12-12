@@ -25,6 +25,14 @@
     padding:0% 0.1% 0% 0.1%;
 }
 
+.border {
+    border-style: double;
+    border-radius: 2em;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 2.5%;
+}
+
 /*Styling for p tags*/
 h2 {
     text-align: center;

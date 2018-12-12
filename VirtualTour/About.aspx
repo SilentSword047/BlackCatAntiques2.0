@@ -2,7 +2,7 @@
 
 <asp:Content ContentPlaceHolderID="MainContent" runat="server">
 
-    <asp:Panel ID="Panel1" runat="server" >
+    <asp:Panel ID="Panel1" runat="server" CssClass="border">
     <h2>Contact Information</h2>
     <p>Black Cat Antiques</p>
     <p>133 Frederica St. W</p>
@@ -10,9 +10,12 @@
     <p>Canada</p>
 
     <asp:Button ID="Button1" runat="server" Text="Call (807) 623-5502" OnClick="Button1_Click" CssClass="buttonAlign" Height="50px" Width="200px"/>
-
+    <br />
     </asp:Panel>
-    <asp:Panel ID="Panel2" runat="server" >
+
+    
+
+    <asp:Panel ID="Panel2" runat="server" Cssclass="border">
     <h2>Store Hours</h2>
     <p>Sunday: Closed</p>
     <p>Monday: Closed</p>
