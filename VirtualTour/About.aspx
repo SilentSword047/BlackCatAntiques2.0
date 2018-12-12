@@ -1,13 +1,14 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="VirtualTour.About" MasterPageFile="~/SiteMaster.Master"%>
 
 <asp:Content ContentPlaceHolderID="MainContent" runat="server">
+
     <h2>Contact Information</h2>
     <p>Black Cat Antiques</p>
     <p>133 Frederica St. W</p>
     <p>Thunder Bay, ON P7E 3V8</p>
     <p>Canada</p>
 
-    <asp:Button ID="Button1" runat="server" Text="Call (807) 623-5502" OnClick="Button1_Click" />
+    <asp:Button ID="Button1" runat="server" Text="Call (807) 623-5502" OnClick="Button1_Click" CssClass="buttonAlign" Height="50px" Width="200px"/>
 
 
     <h2>Store Hours</h2>

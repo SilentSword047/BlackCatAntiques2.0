@@ -8,6 +8,30 @@
     padding-bottom:2%;
 }
 
+/*Styling for p tags*/
+h2 {
+    text-align: center;
+}
+
+
+p {
+    font-size: large;
+    text-align: center;
+}
+
+.defaultPage {
+    padding-left: 20%;
+    padding-right: 20%;
+    line-height: 36px;
+}
+
+.buttonAlign {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 /* Styling for Virtual Tour */
 .virtualTour {
     width: 100%;
