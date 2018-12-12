@@ -2,7 +2,7 @@
 
 <asp:Content ContentPlaceHolderID="MainContent" runat="server">
 
-    <asp:Panel ID="Panel1" runat="server" CssClass="panels">
+    <asp:Panel ID="Panel1" runat="server" CssClass="panels" BorderStyle="None">
         <h2>UNDER CONSTRUCTION SALE!</h2>
         <h2>10% OFF ALMOST EVERYTHING!</h2>
         <h3>Posted: June 8, 2018</h3>

@@ -2,6 +2,7 @@
 
 <asp:Content ContentPlaceHolderID="MainContent" runat="server">
 
+    <asp:Panel ID="Panel1" runat="server" >
     <h2>Contact Information</h2>
     <p>Black Cat Antiques</p>
     <p>133 Frederica St. W</p>
@@ -10,7 +11,8 @@
 
     <asp:Button ID="Button1" runat="server" Text="Call (807) 623-5502" OnClick="Button1_Click" CssClass="buttonAlign" Height="50px" Width="200px"/>
 
-
+    </asp:Panel>
+    <asp:Panel ID="Panel2" runat="server" >
     <h2>Store Hours</h2>
     <p>Sunday: Closed</p>
     <p>Monday: Closed</p>
@@ -19,6 +21,9 @@
     <p>Thursday: 10:00am - 5:30pm</p>
     <p>Friday: 10:00am - 5:30pm</p>
     <p>Saturday: 10:00am - 5:30pm</p>
+    </asp:Panel>
+
+
     <!--
 Mon:	Closed
 Tue:	10:00 am – 5:30 pm
