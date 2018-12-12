@@ -7,7 +7,7 @@
     <hr />
 
     <h2>Our History</h2>
-    <p class="defaultPage">Black Cat Antiques has been in operation since 1993, and is located in Thunder Bay, ON. Canada at 133 W. Frederica St. in the historic Westfort Village. Offering everything from Jewelry, to manuals, from New Old Stock to Antiquities.
+    <p class="paragraph">Black Cat Antiques has been in operation since 1993, and is located in Thunder Bay, ON. Canada at 133 W. Frederica St. in the historic Westfort Village. Offering everything from Jewelry, to manuals, from New Old Stock to Antiquities.
 We have expanded to handle Estate & Content Sales with our 4000 sq ft showroom floor in our new building. From one item to an entire Estate. </p>
 
     <!--
