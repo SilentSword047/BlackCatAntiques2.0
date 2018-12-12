@@ -16,6 +16,7 @@
                 <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
                     <asp:Image ID="Image1" runat="server" Height="87px" ImageUrl="~/Images/logo.jpg" Width="351px" ImageAlign="Middle" /> <br />
                     <asp:HyperLink ID="home" runat="server" NavigateUrl="~/default.aspx">Home</asp:HyperLink><asp:Literal ID="Literal1" runat="server" Text=" | "></asp:Literal>
+                    <asp:HyperLink ID="news" runat="server" NavigateUrl="~/News.aspx">News</asp:HyperLink><asp:Literal ID="Literal5" runat="server" Text=" | "></asp:Literal>
                     <asp:HyperLink ID="marketplace" runat="server" NavigateUrl="https://www.ebay.ca/usr/blackcatthunderbay">Marketplace</asp:HyperLink><asp:Literal ID="Literal2" runat="server" Text=" | "></asp:Literal>
                     <asp:HyperLink ID="directions" runat="server" NavigateUrl="~/Directions.aspx">Directions</asp:HyperLink><asp:Literal ID="Literal3" runat="server" Text=" | "></asp:Literal>
                     <asp:HyperLink ID="about" runat="server" NavigateUrl="~/About.aspx">About</asp:HyperLink>
