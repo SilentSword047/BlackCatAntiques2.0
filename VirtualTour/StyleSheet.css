@@ -35,6 +35,7 @@ p {
 }
 
 
+
 /* Styling for Virtual Tour */
 .virtualTour {
     width: 100%;
@@ -56,3 +57,10 @@ p {
     overflow: hidden;
     background: none !important;
 }
+
+.virtualTour {
+    width:100%;
+    height:90%;
+    text-align:center;
+}
+
